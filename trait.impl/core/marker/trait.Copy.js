@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["chrono_lite",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.92.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"chrono_lite/struct.Tm.html\" title=\"struct chrono_lite::Tm\">Tm</a>"]]],["dhttp",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.92.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"dhttp/core/enum.HttpErrorType.html\" title=\"enum dhttp::core::HttpErrorType\">HttpErrorType</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.92.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"dhttp/reqres/struct.HttpVersion.html\" title=\"struct dhttp::reqres::HttpVersion\">HttpVersion</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.92.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"dhttp/reqres/struct.StatusCode.html\" title=\"struct dhttp::reqres::StatusCode\">StatusCode</a>"]]],["percent_encoding_lite",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.92.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"percent_encoding_lite/struct.Bitmask.html\" title=\"struct percent_encoding_lite::Bitmask\">Bitmask</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[259,821,305]}
