@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["bytes","file","html","json","redirect","sse","text"],"struct":["HttpResponse"]};

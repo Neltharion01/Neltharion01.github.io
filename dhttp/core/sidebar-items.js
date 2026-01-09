@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["HttpErrorType"],"mod":["connection"],"trait":["HttpError","HttpErrorHandler","HttpLogger","HttpService","HttpServiceRaw"],"type":["HttpResult"]};
